@@ -36,9 +36,7 @@ import { AccountInfo } from './account-info';
   styleUrl: './app.component.css',
 })
 
-void getall(){
-  
-}
+
 export class AppComponent {
   account: AccountInfo = {
     name: 'Melisa Evan',
